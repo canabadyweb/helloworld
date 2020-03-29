@@ -1,0 +1,2 @@
+(this["webpackJsonphello-world"]=this["webpackJsonphello-world"]||[]).push([[0],[,,,function(e,o,l){e.exports=l(4)},function(e,o,l){"use strict";l.r(o);var n=l(0),t=l.n(n),r=l(2),s=l.n(r),c=t.a.createElement("h2",null,"Hello World");s.a.render(c,document.getElementById("root"))}],[[3,1,2]]]);
+//# sourceMappingURL=main.c98080ad.chunk.js.map
